@@ -4,3 +4,6 @@ pandas
 notebook
 joblib
 notebook
+ipykernal
+seaborn
+sklearn

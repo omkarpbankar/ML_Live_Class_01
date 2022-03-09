@@ -128,4 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 data/Advertising.csv
-simple_LR.ipynb
